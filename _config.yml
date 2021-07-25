@@ -2,9 +2,9 @@
 name: "KenShare"
 title: "KenShare"
 description: "To Share Knowledge"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /kenshare
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
+baseurl: kenshare.gothub.io
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'KenShare'
 include: ["_pages"]

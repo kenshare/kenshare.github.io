@@ -28,19 +28,13 @@ image: "https://raw.githubusercontent.com/kenshare/kenshare.github.io/master/ass
 
 Antifreezing Proteins කියන්නෙ ඉතා ශීත සාගර වල ඉන්න මාළුන්ගෙ ශරීරය මිදෙන එකෙන් වළක්වාගන්න ශරීරයේ තියන ප්‍රෝටීන විශේෂයක්. මේ ප්‍රෝටීන වලට පුළුවන් ශරීරයේ අයිස් මිදෙන එක නවත්තන්න. මේ හැකියාව එන්නෙ ජාන හරහා. Atlantic Herring සහ Rainbow Smelt කියන්නෙ මෙන්න මේ ප්‍රෝටීන විශේෂය තියන මාළු විශේෂ දෙකක්. ඔවුන්ට අන්තර් අභිජනනයෙන් සරු ජනිතයන් බිහි කරන්නත් බෑ. නමුත් මේ විශේෂ දෙකම පවතගන එන්න එකම පොදු පරිණාමික මූලයකින්. හැබැයි ඔවුන් වෙනම විශේෂ දෙකක් හැටියට වෙන් වෙලා තියෙන්නෙ මීට අවුරුදු මිලියන 250කට විතර කලින්. නමුත් විශේෂත්වය වෙන්නෙ ඔවුන්ට ඥාති වෙන අනෙක් විශේෂ අතරින් කිසිවෙකුටත් මේ විශේෂිත ප්‍රෝටීනය හදන ජානය පිහිටා නොතිබීම.
 
-
-
 ![Rainbow Smelt](https://raw.githubusercontent.com/kenshare/kenshare.github.io/master/assets/images/posts/ajp/cont/smelt.jpg?raw=true)
 
 - Rainbow Smelt
 
-
-
 ![Atlantic Herring](https://raw.githubusercontent.com/kenshare/kenshare.github.io/master/assets/images/posts/ajp/cont/herring.jpg?raw=true)
 
 - Atlantic Herring
-
-
 
 #### දැන් කොහොමද මේ ජාන හුවමාරු වෙලා තියෙන්නෙ?
 
@@ -48,11 +42,7 @@ Antifreezing Proteins කියන්නෙ ඉතා ශීත සාගර ව
 
 මෙන්න මේ ක්‍රමය තමයි ගොඩක් වෙලාවට අපේ මාළු උදාහරණය අවස්ථාවේ වෙන්න ඇත්තෙ. හබැයි අර පරපෝෂිත ක්‍රමයත් වෙන්න ඉඩ තියනව. දැන් ලැබෙන සාක්ෂිත් එක්ක තහවරු වේගන එන දෙයක් තමයි මේ තිරස් ජාන හුවමාරුවත් පරිණාමික ක්‍රියාවලියේ වැදගත් කොටසක් නියෝජනය කරනවා කියන එක.
 
-
-
 > Special thanks to **Upsal Nanayakkara** for providing the article which took my attention
-
-
 
 **References** 
 
@@ -71,8 +61,6 @@ Antifreezing Proteins කියන්නෙ ඉතා ශීත සාගර ව
 [Smelt was the likely beneficiary of an antifreeze gene laterally transferred between fishes](https://doi.org/10.1186/1471-2148-12-190)
 
 [Marine Antifreeze Proteins: Structure, Function, and Application to Cryopreservation as a Potential Cryoprotectant](https://dx.doi.org/10.3390%2Fmd15020027)
-
-
 
 **Image Credits**
 

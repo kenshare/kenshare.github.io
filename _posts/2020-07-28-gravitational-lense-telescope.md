@@ -37,8 +37,6 @@ Star shade :- මේක පාවිච්චි කරන්නෙ අභ්‍
 
 මේ ගැන ඉතාම ලස්සන වීඩියෝ එකක්<sup>[14]</sup> තියනව Launch Pad Astronomy කියන යුටියුබ් චැනල් එකේ. ඉතාම සරළව, ආකර්ෂණීයව මේ හැම දෙයක්ම වගේ පැහැදිලි කරනව. විනාඩි 23ක විකාර නාට්‍යයක් බලනවට වඩා විනාඩි 23ක මේ වගේ වීඩියෝ එකක් බලන එක සෑහෙන්න වටිනව.
 
-
-
 මුලාශ්‍ර :- 
 
 [1] [https://exoplanets.nasa.gov/](https://exoplanets.nasa.gov/) 
@@ -68,4 +66,3 @@ Star shade :- මේක පාවිච්චි කරන්නෙ අභ්‍
 [13] [https://exoplanets.nasa.gov/news/1653/discovery-alert-see-the-image-2-planets-orbit-a-sun-like-star/](https://exoplanets.nasa.gov/news/1653/discovery-alert-see-the-image-2-planets-orbit-a-sun-like-star/)
 
 [14] [https://www.youtube.com/watch?v=NQFqDKRAROI&t=437s](https://www.youtube.com/watch?v=NQFqDKRAROI&t=437s)
-
